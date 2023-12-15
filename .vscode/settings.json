@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "test": true
+    },
+    "java.project.sourcePaths": [
+        "test",
+        "src",
+        ".idea/libraries"
+    ]
+}
